@@ -1,52 +1,29 @@
-Siddique Arts
+**Siddique Arts**
 
-svg
-
-Overview
-
-svg
+**Overview**
 
 Siddique Arts is a simple business website created to showcase handmade and embroidered fashion products. The website represents Siddique Arts as a brand that combines tradition, elegance, royalty, and modesty.
 
 The website includes a Home section, About Us section, social media links, and a Feedback section where visitors can share their thoughts.
 
-Features
-
-svg
+**Features**
 
 Home Page
-
-svg
-
 Welcomes visitors to Siddique Arts.
 Introduces the brand and its handmade products.
 Displays the brand name and tagline.
 Includes the Siddique Arts logo.
 About Us Section
 
-svg
-
 Provides information about Siddique Arts and the type of products offered.
 
-Siddique Arts specializes in:
-
-Hand-painted dupattas
-Embroidered dupattas
-Handmade fashion pieces
-
-The section also explains the brand's focus on combining elegance and tradition to create timeless pieces.
-
 Social Media
-
-svg
 
 Allows visitors to connect with Siddique Arts through:
 
 Facebook
 Instagram
 Feedback Section
-
-svg
 
 Provides a form where visitors can submit their feedback.
 
@@ -58,9 +35,7 @@ Message
 
 The form also includes a Submit button.
 
-Design
-
-svg
+**Design**
 
 The website follows the visual identity of Siddique Arts.
 
@@ -73,26 +48,23 @@ Minimal layout
 Playfair Display font for headings
 Siddique Arts logo
 Simple and elegant interface
-Technologies
 
-svg
+**Technologies**
 
 HTML5
 CSS3
 Google Fonts
-Objective
 
-svg
+**Objective**
 
 The main objective of this project is to create a simple and visually appealing online presence for Siddique Arts.
 
 The website allows visitors to learn about the brand, understand its products, connect through social media, and share feedback.
 
-Conclusion
-
-svg
+**Conclusion**
 
 This project combines a simple website structure with the visual identity of Siddique Arts. It provides basic information about the business while maintaining a design that reflects the brand's theme of "A Classical Blend of Royalty and Modesty."
+
 
 ### Images
 <img width="1400" height="450" alt="image" src="https://github.com/user-attachments/assets/da2a4f7e-529a-4bd6-ab0e-f842c9d9dd8f" />
