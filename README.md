@@ -7,6 +7,7 @@ Siddique Arts is a simple business website created to showcase handmade and embr
 The website includes a Home section, About Us section, social media links, and a Feedback section where visitors can share their thoughts.
 
 **Features**
+
 Home Page
 Welcomes visitors to Siddique Arts.
 Introduces the brand and its handmade products.
@@ -47,10 +48,13 @@ Minimal layout
 Playfair Display font for headings
 Siddique Arts logo
 Simple and elegant interface
+
 **Technologies**
+
 HTML5
 CSS3
 Google Fonts
+
 **Objective**
 
 The main objective of this project is to create a simple and visually appealing online presence for Siddique Arts.
